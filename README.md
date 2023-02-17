@@ -17,7 +17,11 @@ https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb
 ## Abstract
     
     Can you predict the rating of a book based on other features ?
-    What gives the book its rating ? What affects its rating ? Is this the amount of reviewers ? The number of voters ? Or even the length of the book or year of           publication, etc? In this project we will try to answer this question by aquiring data on around 28,000 books form the website "GoodReads" and using Machine           Learning models to try and predict the rating of a book.
+    What gives the book its rating ? 
+    What affects its rating ? 
+    Is this the amount of reviewers ? 
+    The number of voters ? Or even the length of the book or year of publication, etc? 
+    In this project we will try to answer this question by aquiring data on around 28,000 books form the website "GoodReads" and using Machine Learning                     models to try and predict the rating of a book.
 <br><br>
     
 ###<a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#Abstract">Abstract</a>
