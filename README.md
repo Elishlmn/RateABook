@@ -1,7 +1,6 @@
 # RateABook
 
 
-<font size="20"> <center> **RateABook**
 <br><br>
 <p align="center">HIT</p>
 <p align="center">“Introduction to data science” final project</p>
