@@ -1,6 +1,5 @@
 # RateABook
 
-for implementation : 
 
 <font size="20"> <center> **RateABook**
 <br><br>
