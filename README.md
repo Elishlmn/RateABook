@@ -7,7 +7,7 @@ for implementation :
 <p align="center">HIT</p>
 <p align="center">“Introduction to data science” final project</p>
 <p align="center">By Tal Shamli and Eli Shulman</p>
-#
+
 <br><br>
 Full implementation:<br>
 https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb
@@ -33,7 +33,7 @@ https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb
 ### <a href="https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb#Obtainingdata">Obtaining data</a>
 - <a href="https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb#ScrapingGoodReads">Scraping GoodReads</a>
 
-### <a href="https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb#Datahandling">>Data handling</a>
+### <a href="https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb#Datahandling">Data handling</a>
 - <a href="https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb#Extractingnumericdata">Extracting numeric data</a>
 - <a href="https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb#Handelingmissingvalues">Handeling missing values</a>
 - <a href="https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb#Handelingduplications">Handeling duplications</a>
