@@ -25,12 +25,12 @@ https://nbviewer.org/github/Elishlmn/rateabook/blob/main/RateABook.ipynb
     and using Machine Learning models to try and predict the rating of a book.
 <br><br>
     
-###<a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#Abstract">Abstract</a>
+### <a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#Abstract">Abstract</a>
 
 
 ### <a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#Imports">Imports</a>
 
-### <a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#Obtainingdata">Obtainingdata</a>
+### <a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#Obtainingdata">Obtainin gdata</a>
 - <a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#ScrapingGoodReads">Scraping GoodReads</a>
 
 ### <a href="https://nbviewer.org/github/rateabook/blob/main/RateABook.ipynb#Datahandling"Data handling</a>
