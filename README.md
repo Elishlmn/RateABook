@@ -1,4 +1,4 @@
-# RateABook
+# <p align="center">**RateABook**</p>
 
 
 <br><br>
